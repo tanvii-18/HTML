@@ -1,0 +1,113 @@
+*
+{
+	margin:0%;
+	padding:0%;
+	box-sizing:border-box;
+}
+a
+{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+	padding:2px;
+	position:relative;
+	top:10px;
+}
+i 
+{
+	font-size:20px;
+	padding:5px;
+	position:relative;
+	top:10px;
+}
+p
+{
+	font-size:20px;
+	padding:15px;
+	word-spacing:15px;
+	font-family:arial;
+}
+.google
+{
+	font-size:65px;
+	font-family:arial;
+	font-weight:bold;
+	position:relative;
+	top:30%;
+}
+input
+{
+	height:6vh;
+	width:40%;
+	border-radius:30px;
+	color:#bfbfbf;
+	position:relative;
+	top:35%;
+	left:31%;
+}
+h3
+{
+	position:relative;
+	top:30%;
+	left:32%;
+	color:#bfbfbf;
+}
+.image
+{
+	position:relative;
+	top:29%;
+	left:67%;
+}
+.button input
+{
+	width:20%;
+	height:6vh;
+	border-radius:none;
+}
+h3
+{
+	position:relative;
+	top:30%;
+	left:32%;
+	color:#bfbfbf;
+}
+.image
+{
+	position:relative;
+	top:29%;
+	left:67%;
+}
+.box1
+{
+	height:30px;
+	width:10%;
+	background-color:#F0F0F0;
+	position:absolute;
+	top:65%;
+	left:39%;
+}
+.box2
+{
+	height:30px;
+	width:10%;
+	background-color:#F0F0F0;
+	position:absolute;
+	top:65%;
+	left:52%;
+}
+h4
+{
+	position:absolute;
+	top:85%;
+	left:35%;
+	
+}
+.box3
+{
+	height:30px;
+	width:100%;
+	background-color:#F0F0F0;
+	position:absolute;
+	top:120%;
+	left:0%;
+}
