@@ -1,0 +1,60 @@
+*
+{
+	margin:0%;
+	padding:0%;
+	box-sizing:border-box;
+}
+body
+{
+	background-color:black;
+}
+.b
+{
+	position:absolute;
+	top:23%;
+	left:23%;
+	opacity:0.4;
+}
+.one
+{
+	position:relative;
+	font-size:60px;
+	color:white;
+	top:30%;
+	left:25%;
+}
+.two
+{
+	position:relative;
+	font-size:60px;
+	color:white;
+	top:31%;
+	left:25%;
+}
+.three
+{
+	position:relative;
+	font-size:40px;
+	color:white;
+	top:31%;
+	left:25%;
+}
+.logo
+{
+	position:relative;
+	height:120px;
+	width:120px;
+	top:5%;
+	left:65%;
+}
+input
+{
+	height:70px;
+	width:170px;
+	font-size:30px;
+	background-color:red;
+	color:white;
+	position:relative;
+	top:25%;
+	left:19%;
+}
